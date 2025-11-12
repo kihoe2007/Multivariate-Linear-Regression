@@ -31,9 +31,8 @@ Display the predicted output.
 
 ## Program:
 ```
-Developed by: MOULIDHARAN.S
-RegisterNumber: 212224240095
-
+Developed by: Kishore S M
+RegisterNumber: 212224230131
 import pandas as pd
 from sklearn import linear_model
 
